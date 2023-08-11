@@ -24,9 +24,3 @@ print(testchart5)
 
 testchart6 = billboard.ChartData('latin-pop-songs', year=2022)
 print(testchart6)
-
-testchart7 = billboard.ChartData('holiday-100', year=2022)
-print(testchart7)
-
-testchart8 = billboard.ChartData('hot-100', year=2020)
-print(testchart8)
